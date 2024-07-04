@@ -2,7 +2,7 @@
 
 ## Description
 This is a simple and visually appealing to-do list web application. Users can add, check, and remove tasks. The application also saves the tasks in the local storage so that they persist even after the browser is closed. 
-**Made via Vanilla HTML, CSS & Vanilla JavaScript**
+**Made via HTML, CSS & Vanilla JavaScript**
 
 ## Features
 - Add new tasks
